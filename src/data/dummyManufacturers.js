@@ -12,9 +12,6 @@ const manufacturers = [
         location: 'Nigeria',
     },
     {
-
-    },
-    {
         verified: true,
         brandName: 'Matagbamole Global Industries',
         registration_no: '987654321',
